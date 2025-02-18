@@ -1,13 +1,20 @@
-Привет, читающий это! Меня зовут Дюбко Ричард, я студент СПБГМТУ и младший разработчик в компании Digital Design.
+Mobile Developer
 
-Технологический стэк:
+Tech Stack:
 - Flutter
-- .NET 6.0
-- ASP.NET
-- EF Core
+  - Dio
+  - Bloc
+  - Provider
+  - Flutter_blue
+  - rxdart
+- Swift
+  - UIKit
+  - SwiftUI
+- C++
 - Postgres
+- sqlite
 
-Почта для связи: rdyubko@inbox.ru
+Contact mail: rdyubko@inbox.ru
 
 <!---
 Z1mcot/Z1mcot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
